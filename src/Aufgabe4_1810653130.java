@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Aufgabe4_1810653130 {
 
     public static void main(String[]args)
